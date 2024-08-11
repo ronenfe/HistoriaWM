@@ -1,0 +1,5 @@
+bin\Debug\InstallerDLL.dll
+bin\Debug\InstallerDLL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InstallerDLL.dll
+obj\Debug\InstallerDLL.pdb

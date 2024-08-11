@@ -1,0 +1,6 @@
+[CEAppManager]
+Version = 1.0
+Component = SBSH Historia
+[SBSH Historia]
+Description = Advanced call history
+CabFiles = Historia.cab

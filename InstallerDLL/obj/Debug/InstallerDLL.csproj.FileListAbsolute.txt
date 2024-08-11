@@ -1,0 +1,5 @@
+D:\source\Historia SBSH\InstallerDLL\bin\Debug\InstallerDLL.dll
+D:\source\Historia SBSH\InstallerDLL\bin\Debug\InstallerDLL.pdb
+D:\source\Historia SBSH\InstallerDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\source\Historia SBSH\InstallerDLL\obj\Debug\InstallerDLL.dll
+D:\source\Historia SBSH\InstallerDLL\obj\Debug\InstallerDLL.pdb

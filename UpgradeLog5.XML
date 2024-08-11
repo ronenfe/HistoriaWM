@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Historia">
+</Property><Property Name="Solution File" Value="D:\source\Historia SBSH\Historia.sln">
+</Property><Property Name="Date" Value="Monday, August 12, 2024">
+</Property><Property Name="Time" Value="1:02 AM">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="Historia" Source="Historia\Historia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\Historia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InstallerDLL" Source="InstallerDLL\InstallerDLL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="InstallerDLL" Source="InstallerDLL\InstallerDLL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Historia.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Historia.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\CallsListBox.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\CallsListBox.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\FormBill.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\FormBill.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\FormDetails.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\FormDetails.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\FormSearch.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\FormSearch.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\LicenseForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\LicenseForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\SettingsForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\SettingsForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Historia" Source="Historia\Historia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

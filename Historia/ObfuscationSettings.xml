@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+  <Assembly_settings_for_Historia.exe>
+    <AssemblyName>Historia.exe</AssemblyName>
+    <SettingsFilePath>d:\My Documents\Visual Studio 2005\Projects\Historia\Historia\ObfuscationSettings.xml</SettingsFilePath>
+    <SourcePath>d:\My Documents\Visual Studio 2005\Projects\Historia\Historia\bin\Debug\</SourcePath>
+    <OutputPath>d:\My Documents\Visual Studio 2005\Projects\Historia\Historia\bin\Debug\obfuscated\Historia.exe</OutputPath>
+    <Path_to_key></Path_to_key>
+    <All_Private>1</All_Private>
+    <PrivateClasses>1</PrivateClasses>
+    <PrivateMethods>1</PrivateMethods>
+    <PrivateFields>1</PrivateFields>
+    <Naming_method>2</Naming_method>
+    <Apply_PublicMembers>0</Apply_PublicMembers>
+    <Conceal_Strings>0</Conceal_Strings>
+    <CryptographyApplied>0</CryptographyApplied>
+    <Apply_ControlFlow>0</Apply_ControlFlow>
+    <Apply_Linkage>0</Apply_Linkage>
+    <Obfuscate_Locals>0</Obfuscate_Locals>
+    <Strings_for_Public>0</Strings_for_Public>
+    <Strings_for_Private>0</Strings_for_Private>
+    <PublicClasses>1</PublicClasses>
+    <PublicMethods>1</PublicMethods>
+    <PublicFields>1</PublicFields>
+    <PublicProperties>1</PublicProperties>
+    <PublicEvents>1</PublicEvents>
+    <PublicClasses_for_Privates>0</PublicClasses_for_Privates>
+    <PublicMethods_for_Privates>0</PublicMethods_for_Privates>
+    <PublicFields_for_Privates>0</PublicFields_for_Privates>
+    <PublicProperties_for_Privates>0</PublicProperties_for_Privates>
+    <PublicEvents_for_Privates>0</PublicEvents_for_Privates>
+    <ControlFlow_for_Public>0</ControlFlow_for_Public>
+    <ControlFlow_for_Private>0</ControlFlow_for_Private>
+    <Public_members>
+    </Public_members>
+    <Strings>
+    </Strings>
+    <ControlFlow>
+      <ControlFlowAlgorithm>Light</ControlFlowAlgorithm>
+      <ControlFlowMethods>
+      </ControlFlowMethods>
+    </ControlFlow>
+    <Extensions>
+    </Extensions>
+    <Linker>
+    </Linker>
+    <Licenser>
+    </Licenser>
+    <LicenseTitle>MyApplication</LicenseTitle>
+    <LicenseLink>http://MyApplicationOrderPage.html</LicenseLink>
+  </Assembly_settings_for_Historia.exe>

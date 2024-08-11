@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Historia">
+</Property><Property Name="Solution File" Value="D:\source\Historia SBSH\Historia.sln">
+</Property><Property Name="Date" Value="Monday, August 12, 2024">
+</Property><Property Name="Time" Value="0:50 AM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="Historia" Source="Historia\Historia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Historia" Source="Historia\Historia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InstallerDLL" Source="InstallerDLL\InstallerDLL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="InstallerDLL" Source="InstallerDLL\InstallerDLL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Historia.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Historia.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

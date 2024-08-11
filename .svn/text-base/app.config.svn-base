@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="WasteManagement" value="TRUE" />
+    <add key="PerformanceMeasure" value="TRUE" />
+    <add key="GenericInspections" value="TRUE" />
+  </appSettings>
+</configuration>
